@@ -63,7 +63,8 @@ endmodule
 ```
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
-![WhatsApp Image 2024-04-04 at 15 33 27_ec2b868d](https://github.com/ThakshaRishi/ENCODER8TO3DATAFLOW/assets/144870423/5c72c9f6-56f7-4cbb-baa8-987a455f8d84)
+![WhatsApp Image 2024-04-04 at 15 33 27_fe1998a8](https://github.com/ThakshaRishi/ENCODER8TO3DATAFLOW/assets/144870423/8fc1ddea-ad34-40b3-a439-a4bd89e22c5a)
+
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
